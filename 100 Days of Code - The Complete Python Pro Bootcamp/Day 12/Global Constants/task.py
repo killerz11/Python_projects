@@ -1,0 +1,1 @@
+#Global constants = Define it as a variable we never change
